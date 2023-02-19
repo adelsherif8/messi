@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      div {
+        width: 100px;
+        height: 100px;
+        background-image: url(./Argentina_national_football_team_logo.svg.png);
+        position: relative;
+        animation-name: example;
+        animation-duration: 4s;
+      }
+
+      @keyframes example {
+        0% {
+          background-image: url(./Argentina_national_football_team_logo.svg.png);
+          left: 0px;
+          top: 0px;
+        }
+        25% {
+          background-image: url(./Argentina_national_football_team_logo.svg.png);
+          left: 200px;
+          top: 0px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h1>CSS Animation</h1>
+
+    <div></div>
+
+    <p>
+      <b>Note:</b> When an animation is finished, it goes back to its original
+      style.
+    </p>
+  </body>
+</html>

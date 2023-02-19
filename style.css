@@ -1,0 +1,104 @@
+html {
+  background-color: #a50044;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.FAN {
+  display: block;
+  padding: 0.5rem;
+}
+.ismessi h1 {
+  font-size: 30px;
+  text-align: center;
+}
+.ismessi {
+  background-color: #ffffff;
+  border-radius: 1rem;
+  margin: auto;
+  padding: 10px;
+  justify-content: center;
+  background-image: url("messi(1).jpg");
+  background-repeat: no-repeat;
+  background-position-x: 65%;
+  display: block;
+  padding: 1rem 0.2rem;
+}
+.photo {
+  width: 50%;
+  display: inline-block;
+}
+header nav {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0.2rem;
+}
+
+header {
+  border-radius: 1rem;
+  background-color: #74acdf;
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  border: solid #f6b40e;
+  padding: 10px;
+  background-image: url("./Argentina_national_football_team_logo.svg.png");
+  background-position-x: 5%;
+  background-size: 40px;
+  background-repeat: no-repeat;
+}
+.WHO {
+  width: 50%;
+  display: inline-block;
+}
+.video {
+  width: 50%;
+  display: inline-block;
+}
+.messi_desc {
+  display: block;
+  padding: 0.5rem;
+}
+.IMP {
+  display: block;
+  padding: 0.5rem;
+}
+.GOAL {
+  width: 50%;
+  display: inline-block;
+}
+
+header nav {
+  display: flex;
+  gap: 1rem;
+  padding: 1rem 0.2rem;
+}
+.heads {
+  font-size: xx-large;
+  font-weight: 600;
+}
+table {
+  table-layout: auto;
+  border-top-color: #004d98;
+  border-left-color: #004170;
+  border-bottom-color: #004170;
+  border-right-color: #004170;
+}
+footer {
+  border-radius: 1rem;
+  margin: auto;
+  border: solid #da291c;
+  padding: 10px;
+  background-color: #004170;
+  display: flex;
+  justify-content: center;
+  background-image: url("./download\ \(1\).jpg");
+  background-position-x: 5%;
+  background-size: 25px;
+  background-repeat: no-repeat;
+}
+a:link {
+  color: aliceblue;
+}
+a:visited {
+  color: aliceblue;
+}
